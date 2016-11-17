@@ -135,7 +135,7 @@ public class NGram<T> implements Iterable<T> {
 		return true;
 	}
 	
-	public static NGram<String> substituteTokenWith(final NGram<String> ngram, final String from, final String substitute) {
+	public static NGram<String> substituteTokenWith(NGram<String> ngram, String from, String substitute) {
 		ArrayList<String> ngramCopy = ngram.toList();
 		int nSize = ngram.size();
 		for (int i = 0; i < nSize; i++) {
