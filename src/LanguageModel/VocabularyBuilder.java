@@ -35,7 +35,7 @@ public class VocabularyBuilder {
 		return vocabulary.elementSet();
 	}
 	
-	public static void pruneElementsFromMultiset(final int threshold, Multiset<String> vocabulary) {
+	public static void pruneElementsFromMultiset(int threshold, Multiset<String> vocabulary) {
 		final ArrayDeque<Entry<String>> toBeRemoved = new ArrayDeque<Entry<String>>();
 
 		for (final Entry<String> ent : vocabulary.entrySet()) {

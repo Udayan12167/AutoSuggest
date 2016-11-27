@@ -204,10 +204,4 @@ public class JavaTokenizer {
 				.toCharArray());
 	}
 	
-	public static void main(String[] args) throws IOException {
-		JavaTokenizer jt = new JavaTokenizer();
-		File toks = new File("/Users/udayantandon/Documents/workspace/AutoSuggest/src/Tokenizer/Token.java");
-		System.out.println(jt.getTokenListFromFile(toks));
-	}
-	
 }

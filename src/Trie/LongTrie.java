@@ -1,4 +1,4 @@
-package NGram;
+package Trie;
 
 import static com.google.common.base.Preconditions.checkNotNull;
 
@@ -10,6 +10,9 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 import java.util.TreeMap;
+
+import NGram.NGram;
+import Trie.Trie.Node;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
