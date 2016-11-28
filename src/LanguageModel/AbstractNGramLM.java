@@ -199,17 +199,28 @@ public abstract class AbstractNGramLM {
 		return logProb;
 	}
 	
-	public double getMLProbabilityFor(final NGram<String> ngram,
-			final boolean useUNKs) {
-		final long ngramCount = trie.getCount(ngram, useUNKs, true);
-		final long productionCount = trie.getCount(ngram.prefix(), useUNKs,
-				false);
-		if (productionCount == 0) {
-			return 0;
+	public double getMLProbabilityFor(NGram<String> ngram, boolean useUNKs) {
+		checkNotNull(ngram);
+		if (ngram.size() == 1) {
+			ngram = trie.substituteWordsToUNK(ngram);
 		}
+		final long thisNgramCount = trie.getCount(ngram, ngram.size() == 1,
+				true);
 
-		checkArgument(ngramCount <= productionCount);
-		return ((double) ngramCount) / ((double) (productionCount));
+		if (thisNgramCount > 0) {
+			final long productionCount = trie.getCount(ngram.prefix(),
+					ngram.size() == 1, false);
+			checkArgument(productionCount >= thisNgramCount);
+
+			final double mlProb = ((double) thisNgramCount)
+					/ ((double) productionCount);
+			checkArgument(!Double.isInfinite(mlProb));
+			return mlProb;
+		} else {
+			checkArgument(ngram.size() > 1);
+			return 0.4 * getProbabilityFor(ngram.suffix());
+
+		}
 	}
 	
 	public final int getN() {

@@ -68,7 +68,7 @@ public class NGram<T> implements Iterable<T> {
 		
 		containingSentence = sentence;
 		end = position + 1;
-		int start = position - size + 1;
+		start = position - size + 1;
 		if (start < 0)
 			start = 0;
 	}

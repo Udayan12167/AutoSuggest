@@ -102,9 +102,10 @@ public class IdentifierNGramLM extends AbstractNGramLM{
 	public void trainModel(Collection<File> files) throws IOException {
 		trie.buildVocabularySymbols(VocabularyBuilder.buildVocabulary(
 				files, getTokenizer(), CLEAN_VOCABULARY_THRESHOLD));
-		
+		LOGGER.info("Total files " + files.size());
+		int i=1;
 		for (File fi : files) {
-			LOGGER.finer("Reading file " + fi.getAbsolutePath());
+			LOGGER.info("Reading file " +i+ " :"+ fi.getAbsolutePath());
 			try {
 				ArrayList<Token> tokens = tokenizer.getTokenListFromFile(fi);
 
@@ -112,23 +113,9 @@ public class IdentifierNGramLM extends AbstractNGramLM{
 			} catch (final IOException e) {
 				LOGGER.warning(ExceptionUtils.getFullStackTrace(e));
 			}
+			i+=1;
 		}
 		
-	}
-	
-	public static void main(String[] args) throws IOException {
-		Collection<File> files = new HashSet<File>();
-		files.add(new File("./src/LanguageModel/AbstractNGramLM.java"));
-		files.add(new File("./src/LanguageModel/IdentifierNGramLM.java"));
-		files.add(new File("./src/LanguageModel/VocabularyBuilder.java"));
-		
-		JavaTokenizer tokenizer = new JavaTokenizer();
-		
-		IdentifierNGramLM lm = new IdentifierNGramLM(5, tokenizer);
-		
-		lm.trainModel(files);
-		
-		System.out.println(lm.trie.toString());
 	}
 
 }
