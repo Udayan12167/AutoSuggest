@@ -102,10 +102,9 @@ public class IdentifierNGramLM extends AbstractNGramLM{
 	public void trainModel(Collection<File> files) throws IOException {
 		trie.buildVocabularySymbols(VocabularyBuilder.buildVocabulary(
 				files, getTokenizer(), CLEAN_VOCABULARY_THRESHOLD));
-		LOGGER.info("Total files " + files.size());
 		int i=1;
 		for (File fi : files) {
-			LOGGER.info("Reading file " +i+ " :"+ fi.getAbsolutePath());
+			LOGGER.finer("Reading file " +i+ " :"+ fi.getAbsolutePath());
 			try {
 				ArrayList<Token> tokens = tokenizer.getTokenListFromFile(fi);
 

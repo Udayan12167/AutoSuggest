@@ -60,6 +60,8 @@ public class NGram<T> implements Iterable<T> {
 		containingSentence = ngram.containingSentence;
 		start = ngram.start + from;
 		end = ngram.end + to;
+		if((ngram.end + to)>=ngram.containingSentence.size())
+			end = ngram.containingSentence.size()-1;
 	}
 	
 	public NGram(int position, ArrayList<T> sentence, int size){
