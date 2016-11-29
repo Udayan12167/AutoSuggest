@@ -1,0 +1,469 @@
+AndroidApacheClient.java
+14.0
+The chance of finding the variable at the first location is: 0.21428571428571427
+The chance of finding the variable at the first location is: 0.42857142857142855
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.5
+AndroidLog.java
+51.0
+The chance of finding the variable at the first location is: 0.29411764705882354
+The chance of finding the variable at the first location is: 0.4117647058823529
+The chance of finding the variable at the first location is: 0.45098039215686275
+The chance of finding the variable at the first location is: 0.5098039215686274
+The chance of finding the variable at the first location is: 0.5098039215686274
+ApacheClientTest.java
+391.0
+The chance of finding the variable at the first location is: 0.5626598465473146
+The chance of finding the variable at the first location is: 0.639386189258312
+The chance of finding the variable at the first location is: 0.680306905370844
+The chance of finding the variable at the first location is: 0.6879795396419437
+The chance of finding the variable at the first location is: 0.6930946291560103
+Callback.java
+14.0
+The chance of finding the variable at the first location is: 0.7142857142857143
+The chance of finding the variable at the first location is: 0.7142857142857143
+The chance of finding the variable at the first location is: 0.7857142857142857
+The chance of finding the variable at the first location is: 0.8571428571428571
+The chance of finding the variable at the first location is: 1.0
+CallbackRunnable.java
+76.0
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.631578947368421
+The chance of finding the variable at the first location is: 0.8026315789473685
+The chance of finding the variable at the first location is: 0.8026315789473685
+The chance of finding the variable at the first location is: 0.881578947368421
+CallbackRunnableTest.java
+119.0
+The chance of finding the variable at the first location is: 0.5294117647058824
+The chance of finding the variable at the first location is: 0.7226890756302521
+The chance of finding the variable at the first location is: 0.8235294117647058
+The chance of finding the variable at the first location is: 0.8319327731092437
+The chance of finding the variable at the first location is: 0.8403361344537815
+Client.java
+11.0
+The chance of finding the variable at the first location is: 0.6363636363636364
+The chance of finding the variable at the first location is: 0.7272727272727273
+The chance of finding the variable at the first location is: 0.8181818181818182
+The chance of finding the variable at the first location is: 0.9090909090909091
+The chance of finding the variable at the first location is: 0.9090909090909091
+ClientIntegrationTest.java
+0.0
+The chance of finding the variable at the first location is: NaN
+The chance of finding the variable at the first location is: NaN
+The chance of finding the variable at the first location is: NaN
+The chance of finding the variable at the first location is: NaN
+The chance of finding the variable at the first location is: NaN
+ConversionException.java
+20.0
+The chance of finding the variable at the first location is: 0.55
+The chance of finding the variable at the first location is: 0.55
+The chance of finding the variable at the first location is: 0.55
+The chance of finding the variable at the first location is: 0.8
+The chance of finding the variable at the first location is: 0.8
+Converter.java
+24.0
+The chance of finding the variable at the first location is: 0.8333333333333334
+The chance of finding the variable at the first location is: 0.8333333333333334
+The chance of finding the variable at the first location is: 0.8333333333333334
+The chance of finding the variable at the first location is: 0.875
+The chance of finding the variable at the first location is: 0.9166666666666666
+DELETE.java
+33.0
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+Endpoints.java
+12.0
+The chance of finding the variable at the first location is: 0.3333333333333333
+The chance of finding the variable at the first location is: 0.4166666666666667
+The chance of finding the variable at the first location is: 0.4166666666666667
+The chance of finding the variable at the first location is: 0.6666666666666666
+The chance of finding the variable at the first location is: 0.6666666666666666
+EndpointsTest.java
+21.0
+The chance of finding the variable at the first location is: 0.6666666666666666
+The chance of finding the variable at the first location is: 0.7619047619047619
+The chance of finding the variable at the first location is: 0.8095238095238095
+The chance of finding the variable at the first location is: 0.8095238095238095
+The chance of finding the variable at the first location is: 0.8095238095238095
+ErrorHandlerTest.java
+225.0
+The chance of finding the variable at the first location is: 0.5333333333333333
+The chance of finding the variable at the first location is: 0.6177777777777778
+The chance of finding the variable at the first location is: 0.6222222222222222
+The chance of finding the variable at the first location is: 0.6533333333333333
+The chance of finding the variable at the first location is: 0.6577777777777778
+Field.java
+34.0
+The chance of finding the variable at the first location is: 0.8529411764705882
+The chance of finding the variable at the first location is: 0.9117647058823529
+The chance of finding the variable at the first location is: 0.9117647058823529
+The chance of finding the variable at the first location is: 0.9411764705882353
+The chance of finding the variable at the first location is: 0.9705882352941176
+FieldMap.java
+32.0
+The chance of finding the variable at the first location is: 0.84375
+The chance of finding the variable at the first location is: 0.9375
+The chance of finding the variable at the first location is: 0.9375
+The chance of finding the variable at the first location is: 0.96875
+The chance of finding the variable at the first location is: 0.96875
+FormUrlEncoded.java
+30.0
+The chance of finding the variable at the first location is: 0.9666666666666667
+The chance of finding the variable at the first location is: 0.9666666666666667
+The chance of finding the variable at the first location is: 0.9666666666666667
+The chance of finding the variable at the first location is: 0.9666666666666667
+The chance of finding the variable at the first location is: 0.9666666666666667
+FormUrlEncodedTypedOutput.java
+85.0
+The chance of finding the variable at the first location is: 0.6941176470588235
+The chance of finding the variable at the first location is: 0.788235294117647
+The chance of finding the variable at the first location is: 0.8470588235294118
+The chance of finding the variable at the first location is: 0.8588235294117647
+The chance of finding the variable at the first location is: 0.8588235294117647
+GET.java
+33.0
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+GitHubClient.java
+62.0
+The chance of finding the variable at the first location is: 0.45161290322580644
+The chance of finding the variable at the first location is: 0.6451612903225806
+The chance of finding the variable at the first location is: 0.6612903225806451
+The chance of finding the variable at the first location is: 0.6935483870967742
+The chance of finding the variable at the first location is: 0.6935483870967742
+HEAD.java
+33.0
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+The chance of finding the variable at the first location is: 0.9696969696969697
+Header.java
+68.0
+The chance of finding the variable at the first location is: 0.38235294117647056
+The chance of finding the variable at the first location is: 0.38235294117647056
+The chance of finding the variable at the first location is: 0.6176470588235294
+The chance of finding the variable at the first location is: 0.6323529411764706
+The chance of finding the variable at the first location is: 0.7205882352941176
+MimeHelper.java
+22.0
+The chance of finding the variable at the first location is: 0.4090909090909091
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.5454545454545454
+The chance of finding the variable at the first location is: 0.6363636363636364
+MimeUtil.java
+46.0
+The chance of finding the variable at the first location is: 0.4782608695652174
+The chance of finding the variable at the first location is: 0.6086956521739131
+The chance of finding the variable at the first location is: 0.6086956521739131
+The chance of finding the variable at the first location is: 0.6521739130434783
+The chance of finding the variable at the first location is: 0.6521739130434783
+MimeUtilTest.java
+87.0
+The chance of finding the variable at the first location is: 0.4482758620689655
+The chance of finding the variable at the first location is: 0.4482758620689655
+The chance of finding the variable at the first location is: 0.4482758620689655
+The chance of finding the variable at the first location is: 0.4482758620689655
+The chance of finding the variable at the first location is: 0.4482758620689655
+MockHttpException.java
+178.0
+The chance of finding the variable at the first location is: 0.4157303370786517
+The chance of finding the variable at the first location is: 0.48314606741573035
+The chance of finding the variable at the first location is: 0.6741573033707865
+The chance of finding the variable at the first location is: 0.7134831460674157
+The chance of finding the variable at the first location is: 0.7584269662921348
+MockHttpRetrofitError.java
+41.0
+The chance of finding the variable at the first location is: 0.8536585365853658
+The chance of finding the variable at the first location is: 0.9024390243902439
+The chance of finding the variable at the first location is: 0.9024390243902439
+The chance of finding the variable at the first location is: 0.9024390243902439
+The chance of finding the variable at the first location is: 0.9024390243902439
+MockRestAdapter.java
+752.0
+The chance of finding the variable at the first location is: 0.5039893617021277
+The chance of finding the variable at the first location is: 0.6050531914893617
+The chance of finding the variable at the first location is: 0.6542553191489362
+The chance of finding the variable at the first location is: 0.6662234042553191
+The chance of finding the variable at the first location is: 0.6688829787234043
+MockRestAdapterTest.java
+1334.0
+The chance of finding the variable at the first location is: 0.34182908545727136
+The chance of finding the variable at the first location is: 0.525487256371814
+The chance of finding the variable at the first location is: 0.5509745127436282
+The chance of finding the variable at the first location is: 0.5757121439280359
+The chance of finding the variable at the first location is: 0.5877061469265368
+MockTypedInput.java
+68.0
+The chance of finding the variable at the first location is: 0.7058823529411765
+The chance of finding the variable at the first location is: 0.8382352941176471
+The chance of finding the variable at the first location is: 0.9117647058823529
+The chance of finding the variable at the first location is: 0.9264705882352942
+The chance of finding the variable at the first location is: 0.9264705882352942
+MultipartTypedOutputTest.java
+129.0
+The chance of finding the variable at the first location is: 0.4418604651162791
+The chance of finding the variable at the first location is: 0.6666666666666666
+The chance of finding the variable at the first location is: 0.7131782945736435
+The chance of finding the variable at the first location is: 0.7131782945736435
+The chance of finding the variable at the first location is: 0.7131782945736435
+OkClientTest.java
+426.0
+The chance of finding the variable at the first location is: 0.528169014084507
+The chance of finding the variable at the first location is: 0.6549295774647887
+The chance of finding the variable at the first location is: 0.7183098591549296
+The chance of finding the variable at the first location is: 0.7370892018779343
+The chance of finding the variable at the first location is: 0.7582159624413145
+PATCH.java
+35.0
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+POST.java
+35.0
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+PUT.java
+35.0
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+The chance of finding the variable at the first location is: 0.9714285714285714
+Part.java
+39.0
+The chance of finding the variable at the first location is: 0.8205128205128205
+The chance of finding the variable at the first location is: 0.8717948717948718
+The chance of finding the variable at the first location is: 0.8717948717948718
+The chance of finding the variable at the first location is: 0.8717948717948718
+The chance of finding the variable at the first location is: 0.8717948717948718
+Path.java
+33.0
+The chance of finding the variable at the first location is: 0.8787878787878788
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+Person.java
+368.0
+The chance of finding the variable at the first location is: 0.25271739130434784
+The chance of finding the variable at the first location is: 0.37228260869565216
+The chance of finding the variable at the first location is: 0.4076086956521739
+The chance of finding the variable at the first location is: 0.4076086956521739
+The chance of finding the variable at the first location is: 0.41304347826086957
+PhoneProtos.java
+978.0
+The chance of finding the variable at the first location is: 0.2198364008179959
+The chance of finding the variable at the first location is: 0.4703476482617587
+The chance of finding the variable at the first location is: 0.5102249488752556
+The chance of finding the variable at the first location is: 0.5715746421267893
+The chance of finding the variable at the first location is: 0.6687116564417178
+Platform.java
+208.0
+The chance of finding the variable at the first location is: 0.33653846153846156
+The chance of finding the variable at the first location is: 0.5240384615384616
+The chance of finding the variable at the first location is: 0.5769230769230769
+The chance of finding the variable at the first location is: 0.5961538461538461
+The chance of finding the variable at the first location is: 0.6153846153846154
+ProtoConverter.java
+115.0
+The chance of finding the variable at the first location is: 0.8521739130434782
+The chance of finding the variable at the first location is: 0.8869565217391304
+The chance of finding the variable at the first location is: 0.9043478260869565
+The chance of finding the variable at the first location is: 0.9043478260869565
+The chance of finding the variable at the first location is: 0.9043478260869565
+Query.java
+34.0
+The chance of finding the variable at the first location is: 0.8529411764705882
+The chance of finding the variable at the first location is: 0.9117647058823529
+The chance of finding the variable at the first location is: 0.9117647058823529
+The chance of finding the variable at the first location is: 0.9411764705882353
+The chance of finding the variable at the first location is: 0.9705882352941176
+QueryMap.java
+32.0
+The chance of finding the variable at the first location is: 0.84375
+The chance of finding the variable at the first location is: 0.9375
+The chance of finding the variable at the first location is: 0.9375
+The chance of finding the variable at the first location is: 0.96875
+The chance of finding the variable at the first location is: 0.96875
+RequestBuilder.java
+830.0
+The chance of finding the variable at the first location is: 0.43373493975903615
+The chance of finding the variable at the first location is: 0.5253012048192771
+The chance of finding the variable at the first location is: 0.5397590361445783
+The chance of finding the variable at the first location is: 0.5445783132530121
+The chance of finding the variable at the first location is: 0.5626506024096386
+RequestBuilderTest.java
+3192.0
+The chance of finding the variable at the first location is: 0.5861528822055138
+The chance of finding the variable at the first location is: 0.6459899749373433
+The chance of finding the variable at the first location is: 0.7302631578947368
+The chance of finding the variable at the first location is: 0.7515664160401002
+The chance of finding the variable at the first location is: 0.7869674185463659
+RequestInterceptorTape.java
+190.0
+The chance of finding the variable at the first location is: 0.5789473684210527
+The chance of finding the variable at the first location is: 0.6578947368421053
+The chance of finding the variable at the first location is: 0.6578947368421053
+The chance of finding the variable at the first location is: 0.7105263157894737
+The chance of finding the variable at the first location is: 0.7210526315789474
+Response.java
+74.0
+The chance of finding the variable at the first location is: 0.4864864864864865
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.6351351351351351
+The chance of finding the variable at the first location is: 0.6756756756756757
+The chance of finding the variable at the first location is: 0.7702702702702703
+ResponseWrapper.java
+18.0
+The chance of finding the variable at the first location is: 0.8888888888888888
+The chance of finding the variable at the first location is: 0.8888888888888888
+The chance of finding the variable at the first location is: 0.8888888888888888
+The chance of finding the variable at the first location is: 0.8888888888888888
+The chance of finding the variable at the first location is: 0.8888888888888888
+RestAdapter.java
+935.0
+The chance of finding the variable at the first location is: 0.546524064171123
+The chance of finding the variable at the first location is: 0.611764705882353
+The chance of finding the variable at the first location is: 0.6556149732620321
+The chance of finding the variable at the first location is: 0.6962566844919786
+The chance of finding the variable at the first location is: 0.7625668449197861
+RestAdapterTest.java
+1855.0
+The chance of finding the variable at the first location is: 0.4867924528301887
+The chance of finding the variable at the first location is: 0.6231805929919138
+The chance of finding the variable at the first location is: 0.663611859838275
+The chance of finding the variable at the first location is: 0.6981132075471698
+The chance of finding the variable at the first location is: 0.7272237196765499
+RestMethod.java
+33.0
+The chance of finding the variable at the first location is: 0.8787878787878788
+The chance of finding the variable at the first location is: 0.8787878787878788
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+The chance of finding the variable at the first location is: 0.9393939393939394
+RestMethodInfo.java
+726.0
+The chance of finding the variable at the first location is: 0.2988980716253444
+The chance of finding the variable at the first location is: 0.3774104683195592
+The chance of finding the variable at the first location is: 0.4366391184573003
+The chance of finding the variable at the first location is: 0.453168044077135
+The chance of finding the variable at the first location is: 0.45867768595041325
+RestMethodInfoTest.java
+478.0
+The chance of finding the variable at the first location is: 0.608786610878661
+The chance of finding the variable at the first location is: 0.7196652719665272
+The chance of finding the variable at the first location is: 0.7510460251046025
+The chance of finding the variable at the first location is: 0.799163179916318
+The chance of finding the variable at the first location is: 0.8096234309623431
+RetrofitError.java
+171.0
+The chance of finding the variable at the first location is: 0.49122807017543857
+The chance of finding the variable at the first location is: 0.6081871345029239
+The chance of finding the variable at the first location is: 0.6783625730994152
+The chance of finding the variable at the first location is: 0.7017543859649122
+The chance of finding the variable at the first location is: 0.7777777777777778
+RxSupport.java
+113.0
+The chance of finding the variable at the first location is: 0.4690265486725664
+The chance of finding the variable at the first location is: 0.584070796460177
+The chance of finding the variable at the first location is: 0.6548672566371682
+The chance of finding the variable at the first location is: 0.672566371681416
+The chance of finding the variable at the first location is: 0.7345132743362832
+SimpleXMLConverter.java
+119.0
+The chance of finding the variable at the first location is: 0.44537815126050423
+The chance of finding the variable at the first location is: 0.5210084033613446
+The chance of finding the variable at the first location is: 0.5378151260504201
+The chance of finding the variable at the first location is: 0.5630252100840336
+The chance of finding the variable at the first location is: 0.5966386554621849
+TypedByteArray.java
+99.0
+The chance of finding the variable at the first location is: 0.6161616161616161
+The chance of finding the variable at the first location is: 0.6363636363636364
+The chance of finding the variable at the first location is: 0.7575757575757576
+The chance of finding the variable at the first location is: 0.7676767676767676
+The chance of finding the variable at the first location is: 0.7676767676767676
+TypedByteArrayTest.java
+48.0
+The chance of finding the variable at the first location is: 0.375
+The chance of finding the variable at the first location is: 0.4791666666666667
+The chance of finding the variable at the first location is: 0.5416666666666666
+The chance of finding the variable at the first location is: 0.5416666666666666
+The chance of finding the variable at the first location is: 0.5416666666666666
+TypedFile.java
+121.0
+The chance of finding the variable at the first location is: 0.5702479338842975
+The chance of finding the variable at the first location is: 0.6198347107438017
+The chance of finding the variable at the first location is: 0.628099173553719
+The chance of finding the variable at the first location is: 0.6363636363636364
+The chance of finding the variable at the first location is: 0.6363636363636364
+TypedInput.java
+15.0
+The chance of finding the variable at the first location is: 0.8
+The chance of finding the variable at the first location is: 0.9333333333333333
+The chance of finding the variable at the first location is: 0.9333333333333333
+The chance of finding the variable at the first location is: 0.9333333333333333
+The chance of finding the variable at the first location is: 0.9333333333333333
+UrlConnectionClient.java
+223.0
+The chance of finding the variable at the first location is: 0.5381165919282511
+The chance of finding the variable at the first location is: 0.6816143497757847
+The chance of finding the variable at the first location is: 0.7040358744394619
+The chance of finding the variable at the first location is: 0.7354260089686099
+The chance of finding the variable at the first location is: 0.7443946188340808
+UrlConnectionClientTest.java
+457.0
+The chance of finding the variable at the first location is: 0.5514223194748359
+The chance of finding the variable at the first location is: 0.7439824945295405
+The chance of finding the variable at the first location is: 0.8074398249452954
+The chance of finding the variable at the first location is: 0.8227571115973742
+The chance of finding the variable at the first location is: 0.9059080962800875
+UrlFetchClient.java
+266.0
+The chance of finding the variable at the first location is: 0.5
+The chance of finding the variable at the first location is: 0.6240601503759399
+The chance of finding the variable at the first location is: 0.6954887218045113
+The chance of finding the variable at the first location is: 0.706766917293233
+The chance of finding the variable at the first location is: 0.7142857142857143
+UrlFetchClientTest.java
+493.0
+The chance of finding the variable at the first location is: 0.6105476673427992
+The chance of finding the variable at the first location is: 0.718052738336714
+The chance of finding the variable at the first location is: 0.7403651115618661
+The chance of finding the variable at the first location is: 0.8012170385395537
+The chance of finding the variable at the first location is: 0.8073022312373225
+Utils.java
+162.0
+The chance of finding the variable at the first location is: 0.5925925925925926
+The chance of finding the variable at the first location is: 0.691358024691358
+The chance of finding the variable at the first location is: 0.7839506172839507
+The chance of finding the variable at the first location is: 0.7962962962962963
+The chance of finding the variable at the first location is: 0.8148148148148148
+WireConverter.java
+111.0
+The chance of finding the variable at the first location is: 0.6936936936936937
+The chance of finding the variable at the first location is: 0.7387387387387387
+The chance of finding the variable at the first location is: 0.7477477477477478
+The chance of finding the variable at the first location is: 0.7477477477477478
+The chance of finding the variable at the first location is: 0.7567567567567568
+package-info.java
+1.0
+The chance of finding the variable at the first location is: 1.0
+The chance of finding the variable at the first location is: 1.0
+The chance of finding the variable at the first location is: 1.0
+The chance of finding the variable at the first location is: 1.0
+The chance of finding the variable at the first location is: 1.0

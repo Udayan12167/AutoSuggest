@@ -25,7 +25,7 @@ import static com.google.common.base.Preconditions.checkArgument;
 
 public class BaseIdentifierRenamings extends AbstractIdentifierRenamings {
 	
-	public static final int NGRAM_SIZE = 5;
+	public static final int NGRAM_SIZE = 4;
 	
 	JavaTokenizer tokenizer;
 	
@@ -69,7 +69,7 @@ public class BaseIdentifierRenamings extends AbstractIdentifierRenamings {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		File folder = new File("/Users/udayantandon/Downloads/data/train/retrofit");
+		File folder = new File("/Users/nitikasaran/Downloads/data/train/retrofit");
 		File[] listOfFiles = folder.listFiles();
 		List<File> files = new ArrayList<File>();
 		for (int i = 0; i < listOfFiles.length; i++) {
@@ -79,7 +79,7 @@ public class BaseIdentifierRenamings extends AbstractIdentifierRenamings {
 		}
 		
 		Collections.sort(files);
-		PrintWriter writer = new PrintWriter("results_retrofit_5_gram.txt", "UTF-8");
+		PrintWriter writer = new PrintWriter("results_retrofit_4_gram.txt", "UTF-8");
 		
 		for(File fi: files){
 			Collection<File> trainingFiles = new HashSet<File>();
